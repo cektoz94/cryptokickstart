@@ -1,0 +1,11 @@
+/* Global CSS Variables.
+ *
+ * Usage: color: var(--main-bg-color); 
+*/
+
+:root {
+  --main-bg-color: #fff333;
+  --main-text-color: #333;
+  --text-size-default: 16px;
+  --text-family: 'Open Sans', Arial, sans-serif;
+}
