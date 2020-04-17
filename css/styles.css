@@ -19,3 +19,29 @@
 =============================================*/
 @import 'general.css';
 
+/*<div class="main-wrapper">
+<header>
+    <nav class="footer-nav">
+    <a href="#">Home</a>
+    <a href="#">Contacts</a>
+    <a href="#">Partners</a>
+    <a href="#">Invest</a>
+    </nav>
+
+    .footer-nav {
+        display: flex;
+        flex-direction: row;
+        float: right;
+        list-style-type: none;
+      }
+      
+      .footer-nav a{
+        transition: 0.5s ease;
+        text-decoration: none;
+        color: #fff;
+        padding: 20px 60px;
+        border: 1px solid transparent
+      }
+      a:hover{
+        background-color: #fff;
+        color: #000;
